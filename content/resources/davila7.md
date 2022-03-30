@@ -7,6 +7,7 @@ image_metadata:
   caption: The third floor plan.
   credit: Image courtesy of MIT OCW.
   image-alt: The third floor plan.
+parent_uid: 0d78af57-d4a5-e3fe-941f-443cf19e1d7e
 resourcetype: Image
 title: davila7.jpg
 uid: 5395bfdd-fca7-23bc-7517-3772845ef2c6

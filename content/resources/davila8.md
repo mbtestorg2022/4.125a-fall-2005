@@ -7,6 +7,7 @@ image_metadata:
   caption: Hand drawn sections of the project.
   credit: Image courtesy of MIT OCW.
   image-alt: Hand drawn sections of the project.
+parent_uid: 0d78af57-d4a5-e3fe-941f-443cf19e1d7e
 resourcetype: Image
 title: davila8.jpg
 uid: 731c1dec-2fb1-0563-14dc-6c5acfbb99ec

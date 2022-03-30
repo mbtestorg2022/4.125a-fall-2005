@@ -9,6 +9,7 @@ image_metadata:
     and each other.
   credit: Image courtesy of MIT OCW.
   image-alt: Plans of the final project.
+parent_uid: 29c7d6cc-ad5b-72a9-1a47-4b869e37c707
 resourcetype: Image
 title: koch4.jpg
 uid: ff0cff05-1a31-be32-7b09-f3cd37ec4b30

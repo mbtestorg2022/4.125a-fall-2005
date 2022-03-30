@@ -8,6 +8,7 @@ image_metadata:
   caption: The final model from the perspective of bridge travelers.
   credit: Image courtesy of MIT OCW.
   image-alt: The final model from the perspective of bridge travelers.
+parent_uid: 29c7d6cc-ad5b-72a9-1a47-4b869e37c707
 resourcetype: Image
 title: koch8.jpg
 uid: ab65827c-8c7a-606a-5b9c-5c0ba1ea9f75

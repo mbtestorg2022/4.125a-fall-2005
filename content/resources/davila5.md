@@ -8,6 +8,7 @@ image_metadata:
   caption: The final model showing how the project occupies the bridge.
   credit: Image courtesy of MIT OCW.
   image-alt: The final model showing how the project occupies the bridge.
+parent_uid: 0d78af57-d4a5-e3fe-941f-443cf19e1d7e
 resourcetype: Image
 title: davila5.jpg
 uid: fce100b2-e146-48bc-536f-b6697739db12

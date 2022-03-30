@@ -7,6 +7,7 @@ image_metadata:
   caption: A final detail showing the curving stairway.
   credit: Image courtesy of MIT OCW.
   image-alt: A final detail showing the curving stairway.
+parent_uid: 6ee1ca07-072f-8a7f-5815-1333a87a1cbc
 resourcetype: Image
 title: fizel6.jpg
 uid: 579703ff-4577-eeb9-836b-382bc5d9260f

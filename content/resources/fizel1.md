@@ -8,6 +8,7 @@ image_metadata:
   caption: All the work of the semester is presented at the final review.
   credit: Image courtesy of MIT OCW.
   image-alt: All the work of the semester is presented at the final review.
+parent_uid: 6ee1ca07-072f-8a7f-5815-1333a87a1cbc
 resourcetype: Image
 title: fizel1.jpg
 uid: a373b644-8aff-1867-490e-dbc050ede6a5

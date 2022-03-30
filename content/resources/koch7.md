@@ -7,6 +7,7 @@ image_metadata:
   caption: A longer view of the final model.
   credit: Image courtesy of MIT OCW.
   image-alt: A longer view of the final model.
+parent_uid: 29c7d6cc-ad5b-72a9-1a47-4b869e37c707
 resourcetype: Image
 title: koch7.jpg
 uid: 10bf1091-3b86-95e6-f3c7-c5d262a4656f

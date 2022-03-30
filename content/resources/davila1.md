@@ -8,6 +8,7 @@ image_metadata:
   caption: A junk model, made from found objects, starts to define the space.
   credit: Image courtesy of MIT OCW.
   image-alt: A junk model, made from found objects, starts to define the spac
+parent_uid: 0d78af57-d4a5-e3fe-941f-443cf19e1d7e
 resourcetype: Image
 title: davila1.jpg
 uid: cd6e5ebc-4581-22f3-214c-661b80bce098

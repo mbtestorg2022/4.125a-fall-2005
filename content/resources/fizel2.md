@@ -7,6 +7,7 @@ image_metadata:
   caption: A model from the quarry project.
   credit: Image courtesy of MIT OCW.
   image-alt: A model from the quarry project.
+parent_uid: 6ee1ca07-072f-8a7f-5815-1333a87a1cbc
 resourcetype: Image
 title: fizel2.jpg
 uid: 9dc806fd-3532-dcad-2ef6-dcee95f40e09

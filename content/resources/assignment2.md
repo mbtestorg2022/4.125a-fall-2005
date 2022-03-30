@@ -6,6 +6,7 @@ description: Two serious predicaments, expanding daily, currently plaque our soc
   an economic system of disposable consumption.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/675c4a17382eb028e39ff9c4283ab075_assignment2.pdf
 file_type: application/pdf
+parent_uid: d5a8a449-b1f4-b2de-5fdc-cb3990215058
 resourcetype: Document
 title: assignment2.pdf
 uid: 675c4a17-382e-b028-e39f-f9c4283ab075

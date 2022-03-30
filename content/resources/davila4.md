@@ -8,6 +8,7 @@ image_metadata:
   caption: A detail model showing how the spaces and structure relate to the bridge.
   credit: Image courtesy of MIT OCW.
   image-alt: Detail model.
+parent_uid: 0d78af57-d4a5-e3fe-941f-443cf19e1d7e
 resourcetype: Image
 title: davila4.jpg
 uid: c2700302-ac12-5126-b1d4-a3430f5a0c31

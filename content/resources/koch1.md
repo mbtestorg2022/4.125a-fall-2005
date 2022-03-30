@@ -9,6 +9,7 @@ image_metadata:
     the semester.
   credit: Image courtesy of MIT OCW.
   image-alt: Final review layout.
+parent_uid: 29c7d6cc-ad5b-72a9-1a47-4b869e37c707
 resourcetype: Image
 title: koch1.jpg
 uid: bcca3fdf-4f97-d52d-3fb1-c10972ac31fe

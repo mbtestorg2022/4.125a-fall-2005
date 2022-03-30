@@ -7,6 +7,7 @@ image_metadata:
   caption: Digital plans.
   credit: Image courtesy of MIT OCW.
   image-alt: Digital plans.
+parent_uid: 6ee1ca07-072f-8a7f-5815-1333a87a1cbc
 resourcetype: Image
 title: fizel7.jpg
 uid: ddfa5388-bd19-9de3-2e96-eb8af6a93597

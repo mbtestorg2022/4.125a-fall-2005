@@ -8,6 +8,7 @@ image_metadata:
   caption: The final model, showing how it incorporates its structure into the bridge.
   credit: Image courtesy of MIT OCW.
   image-alt: The final model.
+parent_uid: 29c7d6cc-ad5b-72a9-1a47-4b869e37c707
 resourcetype: Image
 title: koch6.jpg
 uid: 33f99413-6f4b-d422-0930-cfc8270bd6fc

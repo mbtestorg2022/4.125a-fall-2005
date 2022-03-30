@@ -9,6 +9,7 @@ description: One of the major forces shaping our world today is the phenomena of
   and challenges these changes produce.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/0f9807c800378aa34d32e6028636d2c5_assignmnt3joslin.pdf
 file_type: application/pdf
+parent_uid: d5a8a449-b1f4-b2de-5fdc-cb3990215058
 resourcetype: Document
 title: assignmnt3joslin.pdf
 uid: 0f9807c8-0037-8aa3-4d32-e6028636d2c5
